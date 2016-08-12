@@ -1,4 +1,7 @@
 # bypass
+[![Build Status](https://travis-ci.org/gsquire/bypass.svg?branch=master)](https://travis-ci.org/gsquire/bypass)
+[![GoDoc](https://godoc.org/github.com/gsquire/bypass?status.svg)](https://godoc.org/github.com/gsquire/bypass)
+
 This is trivial middleware for Go in which it allows you omit middleware chains for
 certain routes that don't require all of the handlers you are using.
 
